@@ -1,6 +1,6 @@
 
 <h1>  Assignemnt-2-batch-3<h1>
-  Perform linear Regression on the Given dataset and predict brain weight from head size
+  Perform linear Regression or polynomial is upto you on the Given dataset and predict brain weight from head size 
   
  
   
